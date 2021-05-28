@@ -4,6 +4,7 @@
 #include <stdlib.h>
 
 /**
+ *
  * Um sistema de RPG em modo text que, dependendo das 
  * escolhas da/do jogadora/or pode mudar o final
  */
