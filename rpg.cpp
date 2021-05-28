@@ -44,7 +44,7 @@ struct Personagem boasVindasDoJogo(){
     struct Personagem eu;
 
     eu.nome = nome;
-    eu.energia = (geraAleatorio() * 90) + 10;
+    eu.energia = (geraAleatorio() * 100) + 10;
     eu.altura = geraAleatorio() * 300;
     eu.forcaFisica = geraAleatorio() * 100;
     eu.forcaMagica = geraAleatorio() * 50;
